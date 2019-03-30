@@ -1,0 +1,10 @@
+c99.php
+uploads/c99.php
+wso.php
+uploads/wso.php
+shell.php
+uploads/shell.php
+r57.php
+uploads/r57.php
+private.php
+uploads/private.php

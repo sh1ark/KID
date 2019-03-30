@@ -1,0 +1,6 @@
+upload.php
+up.php
+upgrade.php
+upload.asp
+up.asp
+upgrade.asp
